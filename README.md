@@ -1,1 +1,14 @@
-# Bhupathi-Reddy-18
+Image result for What exactly are region proposals?
+A Region Proposal Network, or RPN, is a fully convolutional network that simultaneously predicts object bounds and objectness scores at each position. The RPN is trained end-to-end to generate high-quality region proposals.
+Non Maximum Suppression (NMS) is a technique used in numerous computer vision tasks. It is a class of algorithms to select one entity (e.g., bounding boxes) out of many overlapping entities. We can choose the selection criteria to arrive at the desired results.
+Image result for What is mAP, exactly?
+A map is a symbolic representation of selected characteristics of a place, usually drawn on a flat surface. Maps present information about the world in a simple, visual way. They teach about the world by showing sizes and shapes of countries, locations of features, and distances between places
+Image result for What is the definition of a frame per second (FPS)?
+Frame rate, then, is the speed at which those images are shown, or how fast you “flip” through the book. It's usually expressed as “frames per second,” or FPS. So if a video is captured and played back at 24fps, that means each second of video shows 24 distinct still images.
+Intersect over Union (IoU) is a metric that allows us to evaluate how similar our predicted bounding box is to the ground truth bounding box. The idea is that we want to compare the ratio of the area where the two boxes overlap to the total combined area of the two boxes.
+A PR curve is simply a graph with Precision values on the y-axis and Recall values on the x-axis. In other words, the PR curve contains TP/(TP+FN) on the y-axis and TP/(TP+FP) on the x-axis. It is important to note that Precision is also called the Positive Predictive Value (PPV).
+nfortunately there is no means at the time of this writing to search the directory. ... List of Selected Search Tools string is enclosed in.
+One deep learning approach, regions with convolutional neural networks (R-CNN), combines rectangular region proposals with convolutional neural network features. R-CNN is a two-stage detection algorithm. The first stage identifies a subset of regions in an image that might contain an object.
+In commutative algebra and algebraic geometry, localization is a formal way to introduce the "denominators" to a given ring or module. That is, it introduces a new ring/module out of an existing ring/module R, so that it consists of fractions such that the denominator s belongs to a given subset S of R.
+The network does not look at the complete image in one go, but focuses on parts of the image sequentially. This creates two complications: The algorithm requires many passes through a single image to extract all the objects.Image result for What are the disadvantages of R-CNN?
+It also uses the softmax layer instead of SVM in its classification of region proposal which proved to be faster and generate better accuracy than SVM. Fast R-CNN drastically improves the training (8.75 hrs vs 84 hrs) and detection time from R-CNN.
